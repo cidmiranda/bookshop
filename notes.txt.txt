@@ -1,0 +1,2 @@
+mongod --dbpath /c/react/react_redux_mongo/db
+nodemon
